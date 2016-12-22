@@ -1,4 +1,7 @@
 *.class
+.idea
+target
+gzjs.iml
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
